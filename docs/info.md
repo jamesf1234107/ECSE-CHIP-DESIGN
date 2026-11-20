@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a gated SR latch
 
 ## How to test
 
-Explain how to use your project
-
+When E is 1, you can set Q to 1 and reset Q to 0. When E is 0 the values will remain.  
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Usually LED display to show output.
